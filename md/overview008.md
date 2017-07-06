@@ -8,7 +8,7 @@ E39031-02</td>
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span class="icon">Contents</span></a></td>
 </tr>
 </table>
@@ -18,9 +18,9 @@ E39031-02</td>
 <hr />
 <table cellspacing="0" cellpadding="0" width="100">
 <tr>
-<td align="center"><a href="overview007.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview007.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview009.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview009.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 <td>&nbsp;</td>
 </tr>
@@ -43,7 +43,7 @@ containers.
 Figure 1-6 Java EE Containers
 
 image:img/jeett_dt_006.png[Description of Figure 1-6 follows] +
-link:img_text/jeett_dt_006.htm[Description of "Figure 1-6 Java EE
+link:img_text/jeett_dt_006.md[Description of "Figure 1-6 Java EE
 Containers"] +
  +
 
@@ -56,7 +56,7 @@ the web container.
 Figure 1-7 Java EE APIs in the Web Container
 
 image:img/jeett_dt_007.png[Description of Figure 1-7 follows] +
-link:img_text/jeett_dt_007.htm[Description of "Figure 1-7 Java EE APIs
+link:img_text/jeett_dt_007.md[Description of "Figure 1-7 Java EE APIs
 in the Web Container"] +
  +
 
@@ -69,7 +69,7 @@ the EJB container.
 Figure 1-8 Java EE APIs in the EJB Container
 
 image:img/jeett_dt_008.png[Description of Figure 1-8 follows] +
-link:img_text/jeett_dt_008.htm[Description of "Figure 1-8 Java EE APIs
+link:img_text/jeett_dt_008.md[Description of "Figure 1-8 Java EE APIs
 in the EJB Container"] +
  +
 
@@ -82,7 +82,7 @@ the application client container.
 Figure 1-9 Java EE APIs in the Application Client Container
 
 image:img/jeett_dt_009.png[Description of Figure 1-9 follows] +
-link:img_text/jeett_dt_009.htm[Description of "Figure 1-9 Java EE APIs
+link:img_text/jeett_dt_009.md[Description of "Figure 1-9 Java EE APIs
 in the Application Client Container"] +
  +
 
@@ -536,21 +536,21 @@ Java Platform 1.0.
 <col width="48%" />
 <tr>
 <td>&nbsp;</td>
-<td align="center"><a href="overview007.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview007.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview009.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview009.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 </tr>
 </table>
 </td>
-<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.htm"><br />
+<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.md"><br />
 <span>Copyright&nbsp;&copy;&nbsp;2014,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
 ORACLE&nbsp;CONFIDENTIAL.&nbsp;For&nbsp;authorized&nbsp;use&nbsp;only.&nbsp;Do&nbsp;not&nbsp;distribute&nbsp;to&nbsp;third&nbsp;parties.</span></td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span>Contents</span></a></td>
 </tr>
 </table>

@@ -8,7 +8,7 @@ E39031-02</td>
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span class="icon">Contents</span></a></td>
 </tr>
 </table>
@@ -18,9 +18,9 @@ E39031-02</td>
 <hr />
 <table cellspacing="0" cellpadding="0" width="100">
 <tr>
-<td align="center"><a href="title.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="title.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="partintro.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="partintro.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 <td>&nbsp;</td>
 </tr>
@@ -102,7 +102,7 @@ Before You Read This Book
 Before proceeding with this tutorial, you should have a good knowledge
 of the Java programming language. A good way to get to that point is to
 work through the Java Tutorials
-(`http://docs.oracle.com/javase/tutorial/index.html`).
+(`http://docs.oracle.com/javase/tutorial/index.md`).
 
 [[JEETT00302]]
 [[GIPRL]]
@@ -120,7 +120,7 @@ The Java EE 7 API specification can be viewed at
 EE 7 SDK.
 
 Additionally, the Java EE Specifications at
-`http://www.oracle.com/technetwork/java/javaee/tech/index.html` might be
+`http://www.oracle.com/technetwork/java/javaee/tech/index.md` might be
 useful.
 
 For information about creating enterprise applications in the NetBeans
@@ -129,7 +129,7 @@ Integrated Development Environment (IDE), see
 
 For information about the Java DB database for use with GlassFish
 Server, see
-`http://www.oracle.com/technetwork/java/javadb/overview/index.html`.
+`http://www.oracle.com/technetwork/java/javadb/overview/index.md`.
 
 The GlassFish Samples project is a collection of sample applications
 that demonstrate a broad range of Java EE technologies. The GlassFish
@@ -235,21 +235,21 @@ is stored. |as-install`/domains/domain1`
 <col width="48%" />
 <tr>
 <td>&nbsp;</td>
-<td align="center"><a href="title.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="title.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="partintro.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="partintro.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 </tr>
 </table>
 </td>
-<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.htm"><br />
+<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.md"><br />
 <span>Copyright&nbsp;&copy;&nbsp;2014,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
 ORACLE&nbsp;CONFIDENTIAL.&nbsp;For&nbsp;authorized&nbsp;use&nbsp;only.&nbsp;Do&nbsp;not&nbsp;distribute&nbsp;to&nbsp;third&nbsp;parties.</span></td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.html"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span>Contents</span></a></td>
 </tr>
 </table>

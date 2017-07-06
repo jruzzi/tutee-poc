@@ -8,7 +8,7 @@ E39031-02</td>
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span class="icon">Contents</span></a></td>
 </tr>
 </table>
@@ -18,9 +18,9 @@ E39031-02</td>
 <hr />
 <table cellspacing="0" cellpadding="0" width="100">
 <tr>
-<td align="center"><a href="overview004.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview004.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview006.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview006.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 <td>&nbsp;</td>
 </tr>
@@ -88,7 +88,7 @@ in another production environment.
 The container also manages nonconfigurable services, such as enterprise
 bean and servlet lifecycles, database connection resource pooling, data
 persistence, and access to the Java EE platform APIs (see
-link:overview008.html#BNACJ[Java EE 7 APIs]).
+link:overview008.md#BNACJ[Java EE 7 APIs]).
 
 [[BNABQ]]
 
@@ -106,7 +106,7 @@ Java EE containers, as illustrated in link:#BNABR[Figure 1-5].
 Figure 1-5 Java EE Server and Containers
 
 image:img/jeett_dt_005.png[Description of Figure 1-5 follows] +
-link:img_text/jeett_dt_005.htm[Description of "Figure 1-5 Java EE Server
+link:img_text/jeett_dt_005.md[Description of "Figure 1-5 Java EE Server
 and Containers"] +
  +
 
@@ -140,21 +140,21 @@ browser and a Java Plug-in running on the client together.
 <col width="48%" />
 <tr>
 <td>&nbsp;</td>
-<td align="center"><a href="overview004.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview004.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview006.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview006.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 </tr>
 </table>
 </td>
-<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.htm"><br />
+<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.md"><br />
 <span>Copyright&nbsp;&copy;&nbsp;2014,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
 ORACLE&nbsp;CONFIDENTIAL.&nbsp;For&nbsp;authorized&nbsp;use&nbsp;only.&nbsp;Do&nbsp;not&nbsp;distribute&nbsp;to&nbsp;third&nbsp;parties.</span></td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span>Contents</span></a></td>
 </tr>
 </table>

@@ -8,7 +8,7 @@ E39031-02</td>
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span class="icon">Contents</span></a></td>
 </tr>
 </table>
@@ -18,9 +18,9 @@ E39031-02</td>
 <hr />
 <table cellspacing="0" cellpadding="0" width="100">
 <tr>
-<td align="center"><a href="overview009.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview009.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="usingexamples.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="usingexamples.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 <td>&nbsp;</td>
 </tr>
@@ -43,7 +43,7 @@ convenience to the developer.
 This section briefly summarizes the tools that make up GlassFish Server.
 Instructions for starting and stopping GlassFish Server, starting the
 Administration Console, and starting and stopping the Java DB server are
-in link:usingexamples.html#GFIUD[Chapter 2, "Using the Tutorial
+in link:usingexamples.md#GFIUD[Chapter 2, "Using the Tutorial
 Examples"].
 
 GlassFish Server contains the tools listed in link:#BNADH[Table 1-1].
@@ -109,21 +109,21 @@ deployment and invocation.
 <col width="48%" />
 <tr>
 <td>&nbsp;</td>
-<td align="center"><a href="overview009.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview009.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="usingexamples.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="usingexamples.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 </tr>
 </table>
 </td>
-<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.htm"><br />
+<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.md"><br />
 <span>Copyright&nbsp;&copy;&nbsp;2014,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
 ORACLE&nbsp;CONFIDENTIAL.&nbsp;For&nbsp;authorized&nbsp;use&nbsp;only.&nbsp;Do&nbsp;not&nbsp;distribute&nbsp;to&nbsp;third&nbsp;parties.</span></td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span>Contents</span></a></td>
 </tr>
 </table>

@@ -8,7 +8,7 @@ E39031-02</td>
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span class="icon">Contents</span></a></td>
 </tr>
 </table>
@@ -18,9 +18,9 @@ E39031-02</td>
 <hr />
 <table cellspacing="0" cellpadding="0" width="100">
 <tr>
-<td align="center"><a href="overview003.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview003.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview005.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview005.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 <td>&nbsp;</td>
 </tr>
@@ -66,7 +66,7 @@ between the client application and back-end storage.
 Figure 1-1 Multitiered Applications
 
 image:img/jeett_dt_001.png[Description of Figure 1-1 follows] +
-link:img_text/jeett_dt_001.htm[Description of "Figure 1-1 Multitiered
+link:img_text/jeett_dt_001.md[Description of "Figure 1-1 Multitiered
 Applications"] +
  +
 
@@ -237,7 +237,7 @@ the web tier.
 Figure 1-2 Server Communication
 
 image:img/jeett_dt_002.png[Description of Figure 1-2 follows] +
-link:img_text/jeett_dt_002.htm[Description of "Figure 1-2 Server
+link:img_text/jeett_dt_002.md[Description of "Figure 1-2 Server
 Communication"] +
  +
 
@@ -273,7 +273,7 @@ processing.
 Figure 1-3 Web Tier and Java EE Applications
 
 image:img/jeett_dt_003.png[Description of Figure 1-3 follows] +
-link:img_text/jeett_dt_003.htm[Description of "Figure 1-3 Web Tier and
+link:img_text/jeett_dt_003.md[Description of "Figure 1-3 Web Tier and
 Java EE Applications"] +
  +
 
@@ -299,7 +299,7 @@ it back to the client program.
 Figure 1-4 Business and EIS Tiers
 
 image:img/jeett_dt_004.png[Description of Figure 1-4 follows] +
-link:img_text/jeett_dt_004.htm[Description of "Figure 1-4 Business and
+link:img_text/jeett_dt_004.md[Description of "Figure 1-4 Business and
 EIS Tiers"] +
  +
 
@@ -331,21 +331,21 @@ connectivity.
 <col width="48%" />
 <tr>
 <td>&nbsp;</td>
-<td align="center"><a href="overview003.html"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="overview003.md"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview005.html"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview005.md"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 </tr>
 </table>
 </td>
-<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.htm"><br />
+<td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.md"><br />
 <span>Copyright&nbsp;&copy;&nbsp;2014,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
 ORACLE&nbsp;CONFIDENTIAL.&nbsp;For&nbsp;authorized&nbsp;use&nbsp;only.&nbsp;Do&nbsp;not&nbsp;distribute&nbsp;to&nbsp;third&nbsp;parties.</span></td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
 <td>&nbsp;</td>
-<td align="center" valign="top"><a href="toc.htm"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
+<td align="center" valign="top"><a href="toc.md"><img src="img/toc.gif" alt="Go To Table Of Contents" /><br />
 <span>Contents</span></a></td>
 </tr>
 </table>
