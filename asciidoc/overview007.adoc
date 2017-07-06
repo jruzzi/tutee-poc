@@ -69,7 +69,7 @@ local platform, the application is ready to run.
 </td>
 <td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.adoc"><br />
 <span>Copyright&nbsp;&copy;&nbsp;2014,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
-ORACLE&nbsp;CONFIDENTIAL.&nbsp;For&nbsp;authorized&nbsp;use&nbsp;only.&nbsp;Do&nbsp;not&nbsp;distribute&nbsp;to&nbsp;third&nbsp;parties.</span></td>
+</span></td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>

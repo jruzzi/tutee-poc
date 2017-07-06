@@ -37,7 +37,7 @@ E39031-02</td>
 </tbody>
 </table>
 
-Beta Draft: 2017-06-12
+
 
 # 1.8 Java EE 7 APIs
 
@@ -473,4 +473,4 @@ Java Platform 1.0.
 </tbody>
 </table>
 
-ORACLE CONFIDENTIAL. For authorized use only. Do not distribute to third parties.
+

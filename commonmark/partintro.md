@@ -39,7 +39,7 @@ E39031-02</td>
 
 # Part I  
 
-Beta Draft: 2017-06-12
+
 
 # Introduction
 
@@ -91,4 +91,4 @@ part contains the following chapters:
 </tbody>
 </table>
 
-ORACLE CONFIDENTIAL. For authorized use only. Do not distribute to third parties.
+

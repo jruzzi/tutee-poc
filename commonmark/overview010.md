@@ -37,7 +37,7 @@ E39031-02</td>
 </tbody>
 </table>
 
-Beta Draft: 2017-06-12
+
 
 # 1.10 GlassFish Server Tools
 
@@ -158,4 +158,4 @@ Table 1-1 GlassFish Server Tools
 </tbody>
 </table>
 
-ORACLE CONFIDENTIAL. For authorized use only. Do not distribute to third parties.
+

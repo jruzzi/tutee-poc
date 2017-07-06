@@ -37,7 +37,7 @@ E39031-02</td>
 </tbody>
 </table>
 
-Beta Draft: 2017-06-12
+
 
 # Java Platform, Enterprise Edition
 
@@ -195,4 +195,4 @@ subsidiaries or affiliates.
 </tbody>
 </table>
 
-ORACLE CONFIDENTIAL. For authorized use only. Do not distribute to third parties.
+

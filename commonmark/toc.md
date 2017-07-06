@@ -35,7 +35,7 @@ E39031-02</td>
 
 # Contents
 
-Beta Draft: 2017-06-12
+
 
 ## [Title and Copyright Information](title.md)
 

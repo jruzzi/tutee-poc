@@ -37,7 +37,7 @@ E39031-02</td>
 </tbody>
 </table>
 
-Beta Draft: 2017-06-12
+
 
 # 1.7 Java EE Application Assembly and Deployment
 
@@ -96,4 +96,4 @@ local platform, the application is ready to run.
 </tbody>
 </table>
 
-ORACLE CONFIDENTIAL. For authorized use only. Do not distribute to third parties.
+

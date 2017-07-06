@@ -37,7 +37,7 @@ E39031-02</td>
 </tbody>
 </table>
 
-Beta Draft: 2017-06-12
+
 
 # 1.3 Java EE Application Model
 
@@ -113,4 +113,4 @@ systems-level problems of developing a multitier service.
 </tbody>
 </table>
 
-ORACLE CONFIDENTIAL. For authorized use only. Do not distribute to third parties.
+
