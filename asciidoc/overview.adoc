@@ -68,7 +68,7 @@ The following topics are addressed here:
 <col width="33%" />
 <tr>
 <td valign="bottom">
-<table cellspacing="0" cellpadding="0" width="100">
+<table cellspacing="0" cellpadding="0" width="96%">
 <col width="*" />
 <col width="48%" />
 <col width="48%" />
