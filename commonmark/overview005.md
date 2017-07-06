@@ -153,7 +153,7 @@ The server and containers are as follows:
 </tr>
 </tbody>
 </table></td>
-<td><img src="img/oracle.gif" alt="Oracle Logo" class="copyrightlogo" /> <a href="../../dcommon/html/cpyr.md"><br />
+<td><img src="img/oracle.gif" alt="Oracle Logo" class="copyrightlogo" /> <a href="img/cpyr.htm"><br />
 <span class="copyrightlogo">Copyright © 2014, Oracle and/or its affiliates. All rights reserved.</span></a></td>
 <td><table>
 <tbody>
