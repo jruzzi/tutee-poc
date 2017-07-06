@@ -18,9 +18,9 @@ E39031-02</td>
 <hr />
 <table cellspacing="0" cellpadding="0" width="100">
 <tr>
-<td align="center"><a href="partintro.adoc"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="preface.adoc"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview001.adoc"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview.adoc"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 <td>&nbsp;</td>
 </tr>
@@ -28,37 +28,22 @@ E39031-02</td>
 ++++
 
 
+[[JEETT00127]]
 
-[[BEGIN]]
+[[part-i]]
+Part I +
+--------
 
-[[JEETT00064]]
-[[BNAAW]]
 
+[[introduction]]
+Introduction
+------------
 
-[[overview]]
-1 Overview
-----------
+Part I introduces the platform, the tutorial, and the examples. This
+part contains the following chapters:
 
-[[JEETT1339]]
-
-This chapter introduces you to Java EE enterprise application
-development. Here you will review development basics, learn about the
-Java EE architecture and APIs, become acquainted with important terms
-and concepts, and find out how to approach Java EE application
-programming, assembly, and deployment.
-
-The following topics are addressed here:
-
-* link:overview001.adoc#A1046550[Introduction to Java EE]
-* link:overview002.adoc#GIQVH[Java EE 7 Platform Highlights]
-* link:overview003.adoc#BNAAX[Java EE Application Model]
-* link:overview004.adoc#BNAAY[Distributed Multitiered Applications]
-* link:overview005.adoc#BNABO[Java EE Containers]
-* link:overview006.adoc#BNABS[Web Services Support]
-* link:overview007.adoc#BNABX[Java EE Application Assembly and Deployment]
-* link:overview008.adoc#BNACJ[Java EE 7 APIs]
-* link:overview009.adoc#GIRDR[Java EE 7 APIs in the Java Platform,Standard Edition 7]
-* link:overview010.adoc#BNADF[GlassFish Server Tools]
+* link:overview.adoc#BNAAW[Chapter 1, "Overview"]
+* link:usingexamples.adoc#GFIUD[Chapter 2, "Using the Tutorial Examples"]
 
 ++++
 <hr />
@@ -74,9 +59,9 @@ The following topics are addressed here:
 <col width="48%" />
 <tr>
 <td>&nbsp;</td>
-<td align="center"><a href="partintro.adoc"><img src="img/leftnav.gif" alt="Previous" /><br />
+<td align="center"><a href="preface.adoc"><img src="img/leftnav.gif" alt="Previous" /><br />
 <span class="icon">Previous</span></a>&nbsp;</td>
-<td align="center"><a href="overview001.adoc"><img src="img/rightnav.gif" alt="Next" /><br />
+<td align="center"><a href="overview.adoc"><img src="img/rightnav.gif" alt="Next" /><br />
 <span class="icon">Next</span></a></td>
 </tr>
 </table>
