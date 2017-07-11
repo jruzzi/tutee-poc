@@ -4,7 +4,10 @@
 [Java EE Tutorials](asciidoc/title.adoc)
 
 
-TODO: project description here.
+This Project was set up as a POC for hosting Java EE tutorials on GitHub.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/jruzzi/tutee-poc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
