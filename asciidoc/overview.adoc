@@ -42,7 +42,7 @@ E39031-02</td>
 [[JEETT1339]]
 
 
-Welcome to the Java EE platform! 
+Welcome to the Java EE platform! Great Fun 
 
 This chapter introduces you to Java EE enterprise application
 development. Here you will review development basics, learn about the
