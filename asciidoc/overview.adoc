@@ -43,7 +43,7 @@ E39031-02</td>
 
 
 
-Welcome to Java EE!
+Welcome to the Java EE platform! 
 
 
 This chapter introduces you to Java EE enterprise application
