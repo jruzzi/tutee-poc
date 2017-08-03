@@ -41,6 +41,8 @@ E39031-02</td>
 
 [[JEETT1339]]
 
+JavaEE Welcomes you!
+
 This chapter introduces you to Java EE enterprise application
 development. Here you will review development basics, learn about the
 Java EE architecture and APIs, become acquainted with important terms
