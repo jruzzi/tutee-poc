@@ -2,7 +2,7 @@
 <table cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td align="left" valign="top"><b>Java Platform, Enterprise Edition The Java EE Tutorial</b><br />
-<b>Release 8 Platform, Enterprise Edition</b><br />
+<b>Release 8</b><br />
 E39031-02</td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
