@@ -44,10 +44,6 @@ designed, built, and produced for less money, with greater speed, and
 with fewer resources.
 
 
-
-
-This is awesome.
-
 With the Java Platform, Enterprise Edition (Java EE), development of
 Java enterprise applications has never been easier or faster. The aim of
 the Java EE platform is to provide developers with a powerful set of
