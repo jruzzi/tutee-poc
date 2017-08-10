@@ -45,12 +45,6 @@ with fewer resources.
 
 This is truly awesome.
 
-With the Java Platform, Enterprise Edition (Java EE), development of
-Java enterprise applications has never been easier or faster. The aim of
-the Java EE platform is to provide developers with a powerful set of
-APIs while shortening development time, reducing application complexity,
-and improving application performance.
-
 The Java EE platform is developed through the Java Community Process
 (JCP), which is responsible for all Java technologies. Expert groups
 composed of interested parties have created Java Specification Requests
