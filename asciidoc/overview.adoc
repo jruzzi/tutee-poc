@@ -42,7 +42,11 @@ E39031-02</td>
 [[JEETT1339]]
 
 
+<<<<<<< HEAD
 Welcome to the Java EE Platform!
+=======
+Welcome to the Java EE Platform! Hi There!
+>>>>>>> aab52fe46010fa8719e9d3a887a0d77a555a8321
 
 This chapter introduces you to Java EE enterprise application
 development. Here you will review development basics, learn about the

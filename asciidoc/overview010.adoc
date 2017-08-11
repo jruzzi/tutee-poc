@@ -34,6 +34,7 @@ E39031-02</td>
 1.10 GlassFish Server Tools
 ---------------------------
 
+
 GlassFish Server is a compliant implementation of the Java EE 7
 platform. In addition to supporting all the APIs described in the
 previous sections, GlassFish Server includes a number of Java EE tools
