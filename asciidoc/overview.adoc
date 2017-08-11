@@ -41,6 +41,7 @@ E39031-02</td>
 
 [[JEETT1339]]
 
+Note: Shanthi - this is testing with Savija.
 
 Welcome to the Java EE Platform! Hi There!
 
