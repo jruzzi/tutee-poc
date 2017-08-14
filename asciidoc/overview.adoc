@@ -25,7 +25,7 @@ E39031-02</td>
 <td>&nbsp;</td>
 </tr>
 </table>
-++++
++++
 
 
 
@@ -41,8 +41,25 @@ E39031-02</td>
 
 [[JEETT1339]]
 
+Note: Shanthi - this is testing with Savija.
 
+== Heading 1
+=== Heading 2
+==== Heading 3
+* List 1
+* List 2
+- List 21
+- List 22
+** List 211
+
+
+
+
+<<<<<<< HEAD
+Welcome to the Java EE Platform!
+=======
 Welcome to the Java EE Platform! Hi There!
+>>>>>>> aab52fe46010fa8719e9d3a887a0d77a555a8321
 
 This chapter introduces you to Java EE enterprise application
 development. Here you will review development basics, learn about the
@@ -62,6 +79,9 @@ The following topics are addressed here:
 * link:overview008.adoc#BNACJ[Java EE 7 APIs]
 * link:overview009.adoc#GIRDR[Java EE 7 APIs in the Java Platform,Standard Edition 7]
 * link:overview010.adoc#BNADF[GlassFish Server Tools]
+
+[Savija] Using Atom editor to edit this file.. Testing!!
+
 
 ++++
 <hr />
@@ -85,7 +105,7 @@ The following topics are addressed here:
 </table>
 </td>
 <td><img src="img/oracle.gif" alt="Oracle Logo" /> <a href="img/cpyr.adoc"><br />
-<span>Copyright&nbsp;&copy;&nbsp;2014,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
+<span>Copyright&nbsp;&copy;&nbsp;2017,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</a><br>
 </span></td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
