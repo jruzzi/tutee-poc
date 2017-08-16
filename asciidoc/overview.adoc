@@ -38,9 +38,12 @@ E39031-02</td>
 1 Overview
 ----------
 
-Note: Shanthi - this is testing with Savija.
+Shanthi - this is testing with Savija.
 
-Welcome to the Java EE Platform! Hi There!
+
+Welcome to the Java EE Platform!
+
+Welcome to the Java EE Platform! Hi There! "Rajie"
 
 This chapter introduces you to Java EE enterprise application
 development. Here you will review development basics, learn about the
