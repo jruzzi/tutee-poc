@@ -33,7 +33,7 @@ E39031-02</td>
 1.4 Distributed Multitiered Applications
 ----------------------------------------
 
-Test Test - The Java EE platform uses a distributed multitiered application model
+Test [Neelam] - The Java EE platform uses a distributed multitiered application model
 for enterprise applications. Application logic is divided into
 components according to function, and the application components that
 make up a Java EE application are installed on various machines
