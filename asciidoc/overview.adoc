@@ -25,35 +25,20 @@ E39031-02</td>
 <td>&nbsp;</td>
 </tr>
 </table>
-+++
+++++
 
 
 
 [[BEGIN]]
 
 [[JEETT00064]]
-[[BNAAW]]
 
 
 [[overview]]
 1 Overview
 ----------
 
-[[JEETT1339]]
-
 Note: Shanthi - this is testing with Savija.
-
-== Heading 1
-=== Heading 2
-==== Heading 3
-* List 1
-* List 2
-- List 21
-- List 22
-** List 211
-
-
-
 
 Welcome to the Java EE Platform! Hi There!
 
