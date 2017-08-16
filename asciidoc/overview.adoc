@@ -58,7 +58,7 @@ Note: Shanthi - this is testing with Savija.
 <<<<<<< HEAD
 Welcome to the Java EE Platform!
 =======
-Welcome to the Java EE Platform! Hi There!
+Welcome to the Java EE Platform! Hi There! "Rajie"
 >>>>>>> aab52fe46010fa8719e9d3a887a0d77a555a8321
 
 This chapter introduces you to Java EE enterprise application
