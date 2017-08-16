@@ -42,11 +42,7 @@ E39031-02</td>
 [[JEETT1339]]
 
 
-<<<<<<< HEAD
-Welcome to the Java EE Platform!
-=======
 Welcome to the Java EE Platform! Hi There!
->>>>>>> aab52fe46010fa8719e9d3a887a0d77a555a8321
 
 This chapter introduces you to Java EE enterprise application
 development. Here you will review development basics, learn about the
@@ -68,7 +64,24 @@ The following topics are addressed here:
 * link:overview010.adoc#BNADF[GlassFish Server Tools]
 
 [Savija] Using Atom editor to edit this file.. Testing!!
+Rubies are red, +
+Topazes are blue.
 
+[%hardbreaks]
+Ruby is red.
+Java is black.
+
+[cols="2*", options="header"]
+|===
+|Name of Column 1
+|Name of Column 2
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|===
 
 ++++
 <hr />
