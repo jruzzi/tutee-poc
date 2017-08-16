@@ -34,7 +34,7 @@ Java Platform, Enterprise Edition
 
 The Java EE Tutorial
 
-Release 7
+Release 8
 
 E39031-02
 
