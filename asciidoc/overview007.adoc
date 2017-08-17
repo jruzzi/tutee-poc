@@ -3,7 +3,7 @@
 <tr>
 <td align="left" valign="top"><b>The Java EE Tutorial</b><br />
 <b>New Release</b><br />
-E39031-02</td>
+E39031-03</td>
 <td valign="bottom" align="right">
 <table cellspacing="0" cellpadding="0" width="225">
 <tr>
