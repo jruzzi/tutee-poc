@@ -1,7 +1,7 @@
 ++++
 <table cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td align="left" valign="top"><b>Java Platform, Enterprise Edition The Java EE Tutorial</b><br />
+<td align="left" valign="top"><b>The Java EE Tutorial</b><br />
 <b>New Release</b><br />
 E39031-02</td>
 <td valign="bottom" align="right">
