@@ -59,6 +59,9 @@ the like. The next section introduces XML and explains how parties doing
 business can use XML tags and schemas to exchange data in a meaningful
 way.
 !! Hello There
+
+Note: New change for the branch.
+
 [[BNABT]]
 
 [[JEETT00851]]
