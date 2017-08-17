@@ -25,41 +25,28 @@ E39031-02</td>
 <td>&nbsp;</td>
 </tr>
 </table>
-+++
+++++
 
 
 
 [[BEGIN]]
 
 [[JEETT00064]]
-[[BNAAW]]
 
 
 [[overview]]
 1 Overview
 ----------
 
-[[JEETT1339]]
+Shanthi - this is testing with Savija.
+New addition after savija added at 12.39. - Timestamp - 12.40
 
-Note: Shanthi - this is testing with Savija.
-
-== Heading 1
-=== Heading 2
-==== Heading 3
-* List 1
-* List 2
-- List 21
-- List 22
-** List 211
+New line added at 12:39 pm - savija
 
 
-
-
-<<<<<<< HEAD
 Welcome to the Java EE Platform!
-=======
-Welcome to the Java EE Platform! Hi There!
->>>>>>> aab52fe46010fa8719e9d3a887a0d77a555a8321
+
+Welcome to the Java EE Platform! Hi There! "Rajie"
 
 This chapter introduces you to Java EE enterprise application
 development. Here you will review development basics, learn about the
@@ -81,7 +68,24 @@ The following topics are addressed here:
 * link:overview010.adoc#BNADF[GlassFish Server Tools]
 
 [Savija] Using Atom editor to edit this file.. Testing!!
+Rubies are red, +
+Topazes are blue.
 
+[%hardbreaks]
+Ruby is red.
+Java is black.
+
+[cols="2*", options="header"]
+|===
+|Name of Column 1
+|Name of Column 2
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|===
 
 ++++
 <hr />
