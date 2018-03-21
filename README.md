@@ -4,7 +4,7 @@
 [Java EE Tutorials](asciidoc/title.adoc)
 
 
-This Project was set up as a POC for hosting Java EE tutorials on GitHub.
+This project was set up as a POC for hosting Java EE tutorials on GitHub.
 
 
 
