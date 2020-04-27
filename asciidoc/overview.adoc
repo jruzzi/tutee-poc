@@ -38,7 +38,7 @@ E39031-02</td>
 1 Overview
 ----------
 
-Test for Barb for Helidon.
+Test for Barb for Helidon. Second test using a branch
 
 Shanthi - this is testing with Savija.
 New addition after savija added at 12.39. - Timestamp - 12.40
